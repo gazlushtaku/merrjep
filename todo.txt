@@ -1,0 +1,29 @@
+[x] View publication
+
+[x] Dashboard / Publisher
+    [x] Publications
+        [x] Create
+        [x] Edit / Update
+        [x] Images 
+            [x] Set primary 
+            [x] Delete
+
+[x] Dashboard / Administrator
+    [x] Users
+    [x] Publications
+        [x] Approve
+
+[x] Shared / Pub & Adm
+    [] Change password
+    [] Update profile
+
+[] Middleware examples
+
+[] Deploy merrjep (Namecheap)
+
+-------------------
+
+[] Create simple API with Laravel
+[] Use one laravel api endpoint in React app
+ 
+
